@@ -1,0 +1,231 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;900&family=Poppins:wght@100;300;400;500;700&display=swap');
+
+
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+
+
+}
+
+img {
+
+    width: 583.17px;
+    height: 466.9px;
+    display: inline-block;
+    margin-left: 121px
+}
+
+header {
+
+    margin: 47px 0px 178px 42px;
+
+
+}
+
+.link-header {
+
+    color: #17233D;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0.875px;
+    cursor: pointer;
+    margin-right: 32px;
+
+}
+
+.button-reader {
+
+    width: 124px;
+    height: 51px;
+    border-radius: 6px;
+    border: 1px solid #4CB538;
+    background: #6FBF44;
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    border: none;
+    box-shadow: 0px 4px 4px 0px #989D9C;
+
+}
+
+h1 {
+
+    width: 582px;
+    color: #161A49;
+    font-size: 62px;
+    ;
+    font-weight: 700;
+    line-height: 82px;
+    letter-spacing: 0.596px;
+    margin-bottom: 47px;
+
+}
+
+p {
+
+    width: 493px;
+    color: #4B505A;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    margin-bottom: 55px;
+
+}
+
+.link-section {
+
+    color: #6FBF44;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    letter-spacing: 1px;
+    cursor: pointer;
+
+
+
+}
+
+section {
+
+    display: inline-block;
+    margin-left: 96.83px;
+
+
+
+}
+
+
+@media screen and (max-width: 714px) {
+
+.link-header {
+
+        display: none;
+
+    }
+
+    img {
+
+        display: block;
+        width: auto;
+        height: 288px;
+        position: absolute;
+        top: 490px;
+        right: 39px;
+        margin-top: 78px;
+
+
+
+
+
+
+
+    }
+
+    section {
+
+        display: block;
+        margin-bottom: 800px;
+        position: static;
+
+
+
+
+    }
+
+    h1 {
+
+
+        width: 278px;
+        text-align: center;
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 30px;
+        letter-spacing: 0.596px;
+        position: absolute;
+        top: 124px;
+        right: 55px;
+
+
+
+
+    }
+
+    P {
+
+        width: 304px;
+        text-align: center;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 33px;
+        letter-spacing: 0.5px;
+        position: absolute;
+        top: 213px;
+        right: 43px;
+
+    }
+
+    .link-section {
+
+
+        width: auto;
+        font-size: 18px;
+        font-weight: 500;
+        line-height: normal;
+        letter-spacing: 1px;
+        margin-left: 96px;
+        position: absolute;
+        top: 404px;
+        right: 139px;
+
+
+
+
+    }
+
+    .button-reader {
+
+        width: 91px;
+        height: 31px;
+        font-size: 12px;
+        font-weight: 500;
+        line-height: 18px;
+        letter-spacing: 1px;
+        border-radius: 6px;
+        position: absolute;
+        top: 23px;
+        right: 15px;
+        margin-left: 284px;
+
+
+
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
