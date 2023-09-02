@@ -16,11 +16,7 @@
 
 HTML5
 
-<BR> 
-<img src="../../icons/icons8-css3-48.png" alt="css3">
+<img src="../../icons/icons8-css3-48.png" alt="CSS3">
+
 
 CSS3
-
-
-
-
